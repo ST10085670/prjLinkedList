@@ -24,6 +24,10 @@
 
             return count;
         }
+        public static Node FindNode(int value, Node Head) 
+        {
+
+        }
 
     }
 }
